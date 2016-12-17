@@ -1,0 +1,34 @@
+bObsweep Programming Task
+
+Summary:
+Write a program which will determine the prime factors of a number.
+
+The program will prompt the user to enter an integer, then it will output the prime factorization of that integer. After this, the program will loop, asking for another integer. The program will stop if the user enters nothing.
+
+For example:
+
+Output:
+Please enter an integer.
+
+Input:
+6
+
+Output:
+6 = 2 * 3
+Please enter an integer.
+
+Input:
+24
+
+Output:
+24 = 2^3 * 3
+Please enter an integer.
+etc...
+
+The output formatting should be exactly as I've shown above.
+
+This program must be written in C++. You should submit our code and instructions for how to compile it (if it's not obvious) onto a public github repo. Then, send us the link to the repo.
+
+You should make sure your code is written in a clear and simple style. Put some comments in the code if there's anything that you think might be unclear.
+
+The purpose of this task is not to prove your ability to finish the task. Instead, we want to get a sense of your coding style. How do you organize your program? What choices do you make? etc. Try to write code that is clear and easy to understand. 
